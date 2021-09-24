@@ -7,6 +7,9 @@ It is a pleasure to be here today.
 Basic git commands:
 https://guides.github.com/introduction/git-handbook/
 
+Cheat Sheet:
+https://ndpsoftware.com/git-cheatsheet.html#loc=remote_repo;
+
 Example: Contribute to an existing repository
 
 # download a repository on GitHub.com to our machine
