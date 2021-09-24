@@ -34,3 +34,6 @@ git commit -m "my snapshot"
 
 # push changes to github
 git push --set-upstream origin my-branch
+
+
+git diff --word-diff
